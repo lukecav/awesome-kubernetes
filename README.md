@@ -1,5 +1,5 @@
 # awesome-kubernetes
-A collection of tools for [Kubernetes](https://kubernetes.io/)
+A collection of tools for [Kubernetes](https://kubernetes.io/).
 
 ## Tools
 
