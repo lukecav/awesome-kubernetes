@@ -9,3 +9,5 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Minikube](https://github.com/kubernetes/minikube) - Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a VM on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
 * [Kube Lego](https://github.com/jetstack/kube-lego) - Kube Lego automatically requests certificates for Kubernetes Ingress resources from Let's Encrypt.
 * [ExternalDNS](https://github.com/kubernetes-incubator/external-dns) - ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
+* [Kubespray Wrapper](https://github.com/kubespray/kubespray-cli) - Easy to use command line tool for kubernetes deployment with kubespray.
+* [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster.
