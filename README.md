@@ -3,7 +3,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 
 ## Table Of Contents
 * [Tools](#tools)
-* [Tutorials](tutorials)
+* [Tutorials](#tutorials)
 
 ## Tools
 * [Kubernetes Auto-Ingress](https://github.com/hxquangnhat/kubernetes-auto-ingress) - Dynamically create an ingress for an associated service for Kubernetes, works with NGNIX ingress controller.
