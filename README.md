@@ -12,3 +12,4 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubespray Wrapper](https://github.com/kubespray/kubespray-cli) - Easy to use command line tool for kubernetes deployment with kubespray.
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster.
 * [Cluster capacity analysis framework](https://github.com/kubernetes-incubator/cluster-capacity) - Cluster capacity analysis.
+* [Kubeadm](https://github.com/kubernetes/kubeadm) - Kubernetes installation with kubeadm really simplifies deployment procedure and it is easy to use.
