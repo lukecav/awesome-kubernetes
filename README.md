@@ -24,6 +24,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubernetes Vault Integration](https://github.com/Boostport/kubernetes-vault) - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
 * [K8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily.
 * [Redis Cluster on Kubernetes](https://github.com/sobotklp/kubernetes-redis-cluster) - This k8s module is intended to simplify the creation and operation of a Redis Cluster deployment in Kubernetes.
+* [KubeNow](https://github.com/kubenow/KubeNow) - KubeNow is a cloud agnostic platform for microservices, based on Docker and Kubernetes. Other than lighting-fast Kubernetes operations, KubeNow helps you in lifting your final application configuring DNS records and distributed storage.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
