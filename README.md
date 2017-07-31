@@ -18,6 +18,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubeadm](https://github.com/kubernetes/kubeadm) - Kubernetes installation with kubeadm really simplifies deployment procedure and it is easy to use.
 * [Kubernetes Elasticsearch Cluster](https://github.com/pires/kubernetes-elasticsearch-cluster) - Elasticsearch cluster on top of Kubernetes made easy.
 * [Spread](https://github.com/redspread/spread) - Spread is a command line tool that makes it easy to version Kubernetes clusters, deploy to Kubernetes clusters in one command, and set up a local Kubernetes cluster.
+* [Teresa](https://github.com/luizalabs/teresa-api) - Teresa is an extremely simple platform as a service that runs on top of Kubernetes.The API needs a database backend and access to Amazon S3 for storage.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
