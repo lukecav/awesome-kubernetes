@@ -4,6 +4,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 ## Table Of Contents
 * [Tools](#tools)
 * [Tutorials](#tutorials)
+* [More Resources](#more-resources)
 
 ## Tools
 * [Kubernetes Auto-Ingress](https://github.com/hxquangnhat/kubernetes-auto-ingress) - Dynamically create an ingress for an associated service for Kubernetes, works with NGNIX ingress controller.
@@ -27,3 +28,6 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubernetes upgrade – kubeadm](https://crondev.com/kubernetes-upgrade-kubeadm/) - Kubeadm is still in beta, but if you already deployed a Kubernetes cluster on some environment using it and now want to upgrade, you can do that manually.
 * [Distributed Load Testing Using Kubernetes](https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes) - Load testing is key to the development of any backend infrastructure because load tests demonstrate how well the system functions when faced with real-world demands.
 * [Monitoring Your Kubernetes Infrastructure With Prometheus](https://www.weave.works/blog/monitoring-kubernetes-infrastructure/) - Monitoring Your Kubernetes Infrastructure With Prometheus.
+
+## More Resources
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - You can find more awesome resources for Kubernetes here.
