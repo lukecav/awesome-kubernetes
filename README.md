@@ -16,6 +16,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster.
 * [Cluster capacity analysis framework](https://github.com/kubernetes-incubator/cluster-capacity) - Cluster capacity analysis.
 * [Kubeadm](https://github.com/kubernetes/kubeadm) - Kubernetes installation with kubeadm really simplifies deployment procedure and it is easy to use.
+* [Kubernetes Elasticsearch Cluster](https://github.com/pires/kubernetes-elasticsearch-cluster) - Elasticsearch cluster on top of Kubernetes made easy.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
