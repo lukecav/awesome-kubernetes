@@ -22,7 +22,8 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Teresa](https://github.com/luizalabs/teresa-api) - Teresa is an extremely simple platform as a service that runs on top of Kubernetes.The API needs a database backend and access to Amazon S3 for storage.
 * [Kube Latency](https://github.com/simonswine/kube-latency) - This is a simple little tool, that helps to measure bandwidth and latency in a kubernetes Pod Network.
 * [Kubernetes Vault Integration](https://github.com/Boostport/kubernetes-vault) - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
-* [K8sec]https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily.
+* [K8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily.
+* [Redis Cluster on Kubernetes](https://github.com/sobotklp/kubernetes-redis-cluster) - This k8s module is intended to simplify the creation and operation of a Redis Cluster deployment in Kubernetes.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
