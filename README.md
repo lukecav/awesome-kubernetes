@@ -35,6 +35,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Distributed Load Testing Using Kubernetes](https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes) - Load testing is key to the development of any backend infrastructure because load tests demonstrate how well the system functions when faced with real-world demands.
 * [Monitoring Your Kubernetes Infrastructure With Prometheus](https://www.weave.works/blog/monitoring-kubernetes-infrastructure/) - Monitoring Your Kubernetes Infrastructure With Prometheus.
 * [Code Cooking: Kubernetes](https://medium.com/google-cloud/code-cooking-kubernetes-e715728a578c) - Using Google CDN with Kubernetes.
+* [WordPress in Kubernetes: The Perfect Setup](https://sysdig.com/blog/wordpress-kubernetes-perfect-setup/) -This tutorial shows how to prepare and deploy WordPress with all required dependencies (MySQL, etc) in Kubernetes.
 
 ## More Resources
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - You can find more awesome resources for Kubernetes here.
