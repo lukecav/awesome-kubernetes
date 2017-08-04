@@ -3,6 +3,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 
 ## Table Of Contents
 * [Tools](#tools)
+* [Peformance](#performance)
 * [Tutorials](#tutorials)
 * [More Resources](#more-resources)
 
@@ -26,7 +27,11 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Redis Cluster on Kubernetes](https://github.com/sobotklp/kubernetes-redis-cluster) - This k8s module is intended to simplify the creation and operation of a Redis Cluster deployment in Kubernetes.
 * [KubeNow](https://github.com/kubenow/KubeNow) - KubeNow is a cloud agnostic platform for microservices, based on Docker and Kubernetes. Other than lighting-fast Kubernetes operations, KubeNow helps you in lifting your final application configuring DNS records and distributed storage.
 * [NGINX for Kubernetes Reloaded](https://github.com/rosskukulinski/nginx-kubernetes-reload) - Containerized NGINX that watches for configuration file changes from Kubernetes Secrets or ConfigMaps.
-* [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+* [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
+
+## Performance
+* [Varnish exporter for Prometheus](https://github.com/jonnenauha/prometheus_varnish_exporter) - Scrapes the varnishstat -j JSON output on each Prometheus collect and exposes all reported metrics.
+* [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - This is a Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
