@@ -30,6 +30,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
 
 ## Performance
+* [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
 * [Varnish exporter for Prometheus](https://github.com/jonnenauha/prometheus_varnish_exporter) - Scrapes the varnishstat -j JSON output on each Prometheus collect and exposes all reported metrics.
 * [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - This is a Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
 
