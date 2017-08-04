@@ -24,13 +24,14 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kube Latency](https://github.com/simonswine/kube-latency) - This is a simple little tool, that helps to measure bandwidth and latency in a kubernetes Pod Network.
 * [Kubernetes Vault Integration](https://github.com/Boostport/kubernetes-vault) - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
 * [K8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily.
-* [Redis Cluster on Kubernetes](https://github.com/sobotklp/kubernetes-redis-cluster) - This k8s module is intended to simplify the creation and operation of a Redis Cluster deployment in Kubernetes.
+* [Redis Cluster on Kubernetes](https://github.com/sobotklp/kubernetes-redis-cluster) - This k8s module is intended to simplify the creation and operation of a Redis Cluster deployment in Kubernetes.https://logz.io/blog/prometheus-monitoring/
 * [KubeNow](https://github.com/kubenow/KubeNow) - KubeNow is a cloud agnostic platform for microservices, based on Docker and Kubernetes. Other than lighting-fast Kubernetes operations, KubeNow helps you in lifting your final application configuring DNS records and distributed storage.
 * [NGINX for Kubernetes Reloaded](https://github.com/rosskukulinski/nginx-kubernetes-reload) - Containerized NGINX that watches for configuration file changes from Kubernetes Secrets or ConfigMaps.
 * [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
+* [Prometheus Monitoring with Grafana](https://logz.io/blog/prometheus-monitoring/) - The combination of Prometheus and Grafana is becoming a more and more common monitoring stack used by DevOps teams for storing and visualizing time series data. 
 * [Varnish exporter for Prometheus](https://github.com/jonnenauha/prometheus_varnish_exporter) - Scrapes the varnishstat -j JSON output on each Prometheus collect and exposes all reported metrics.
 * [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - This is a Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
 
