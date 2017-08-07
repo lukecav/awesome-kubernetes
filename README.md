@@ -45,6 +45,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Monitoring Your Kubernetes Infrastructure With Prometheus](https://www.weave.works/blog/monitoring-kubernetes-infrastructure/) - Monitoring Your Kubernetes Infrastructure With Prometheus.
 * [Code Cooking: Kubernetes](https://medium.com/google-cloud/code-cooking-kubernetes-e715728a578c) - Using Google CDN with Kubernetes.
 * [WordPress in Kubernetes: The Perfect Setup](https://sysdig.com/blog/wordpress-kubernetes-perfect-setup/) -This tutorial shows how to prepare and deploy WordPress with all required dependencies (MySQL, etc) in Kubernetes.
+* [Sysdig Install: Kubernetes](https://support.sysdig.com/hc/en-us/articles/206770633-Sysdig-Install-Kubernetes-) -Sysdig Monitor is the first and only monitoring, alerting, and troubleshooting solution designed from the ground up to provide unprecedented visibility into containerized infrastructures.
 
 ## More Resources
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - You can find more awesome resources for Kubernetes here.
