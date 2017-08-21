@@ -3,7 +3,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 
 ## Table Of Contents
 * [Tools](#tools)
-* [Peformance](#performance)
+* [Performance](#performance)
 * [Tutorials](#tutorials)
 * [More Resources](#more-resources)
 
