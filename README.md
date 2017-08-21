@@ -37,6 +37,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Prometheus Monitoring with Grafana](https://logz.io/blog/prometheus-monitoring/) - The combination of Prometheus and Grafana is becoming a more and more common monitoring stack used by DevOps teams for storing and visualizing time series data. 
 * [Varnish exporter for Prometheus](https://github.com/jonnenauha/prometheus_varnish_exporter) - Scrapes the varnishstat -j JSON output on each Prometheus collect and exposes all reported metrics.
 * [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - This is a Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
+* [Cluster-level Kubernetes Logging with Honeycomb](https://github.com/honeycombio/honeycomb-kubernetes-agent) - Honeycomb's Kubernetes agent aggregates logs across a Kubernetes cluster. Stop managing log storage in all your clusters and start tracking down real problems.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
