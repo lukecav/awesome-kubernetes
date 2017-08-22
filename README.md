@@ -52,6 +52,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [WordPress in Kubernetes: The Perfect Setup](https://sysdig.com/blog/wordpress-kubernetes-perfect-setup/) -This tutorial shows how to prepare and deploy WordPress with all required dependencies (MySQL, etc) in Kubernetes.
 * [Sysdig Install: Kubernetes](https://support.sysdig.com/hc/en-us/articles/206770633-Sysdig-Install-Kubernetes-) - Sysdig Monitor is the first and only monitoring, alerting, and troubleshooting solution designed from the ground up to provide unprecedented visibility into containerized infrastructures.
 * [How to monitor Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - In this article we are going to show how to monitor Nginx on Kubernetes, describing different use cases, peculiarities of running on this platform, relevant metrics and dashboards.
+* [Fluentd: Open-Source Log Collector](https://github.com/fluent/fluentd) - Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on. 
 
 ## More Resources
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - You can find more awesome resources for Kubernetes here.
