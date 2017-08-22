@@ -31,7 +31,6 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Reference doc of hyperkube](https://github.com/fdebonneval/docker8s) - Reference doc of hyperkube.
 * [mobydig](https://github.com/fdebonneval/mobydig) - Image to run Sysdig on Docker for mac (but not only, it should work on a docker engine on a linux host) #Why ? Why a particular image for Docker for mac ? Sysdig provides a Docker image to run sysdig/csysdig on Docker but on a Linux host.
 * [Quartermaster](https://github.com/coreos/quartermaster) - Quartermaster is a framework for managing containerized storage systems like Ceph, GlusterFS, NFS-Ganesha, Rook and others on top of Kubernetes. 
-* [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
@@ -40,6 +39,8 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus) - This is a Lua library that can be used with Nginx to keep track of metrics and expose them on a separate web page to be pulled by Prometheus.
 * [Cluster-level Kubernetes Logging with Honeycomb](https://github.com/honeycombio/honeycomb-kubernetes-agent) - Honeycomb's Kubernetes agent aggregates logs across a Kubernetes cluster. Stop managing log storage in all your clusters and start tracking down real problems.
 * [Estafette Cloudflare DNS](https://github.com/estafette/estafette-cloudflare-dns) - This small Kubernetes application configures dns and proxy settings in Cloudflare for any public service with the correct annotations.
+* [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
+* [Prometheus Pushgateway](https://github.com/prometheus/pushgateway) - The Prometheus Pushgateway exists to allow ephemeral and batch jobs to expose their metrics to Prometheus. Since these kinds of jobs may not exist long enough to be scraped, they can instead push their metrics to a Pushgateway.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
