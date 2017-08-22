@@ -41,6 +41,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Estafette Cloudflare DNS](https://github.com/estafette/estafette-cloudflare-dns) - This small Kubernetes application configures dns and proxy settings in Cloudflare for any public service with the correct annotations.
 * [prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 * [Prometheus Pushgateway](https://github.com/prometheus/pushgateway) - The Prometheus Pushgateway exists to allow ephemeral and batch jobs to expose their metrics to Prometheus. Since these kinds of jobs may not exist long enough to be scraped, they can instead push their metrics to a Pushgateway.
+* [Fluent Plugin Prometheus](https://github.com/kazegusuri/fluent-plugin-prometheus) - A fluent plugin that instruments metrics from records and exposes them via web interface. Intended to be used together with a Prometheus server.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
