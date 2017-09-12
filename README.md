@@ -64,6 +64,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Fluentd: Open-Source Log Collector](https://github.com/fluent/fluentd) - Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on. 
 * [Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) - In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application.
 * [How much RAM does my Prometheus need for ingestion?](https://www.robustperception.io/how-much-ram-does-my-prometheus-need-for-ingestion/) - It can be a little confusing to figure out Prometheus memory usage. Let’s break part of it down.
+* [Configuring Prometheus for High Performance](http://schd.ws/hosted_files/cloudnativeeu2017/ce/Slides.pdf) - Configuring Prometheus for High Performance is not an easy topic, because Prometheus does an extensive usage of memory and it’s basically about optimizing it.
 
 ## More Resources
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - You can find more awesome resources for Kubernetes here.
