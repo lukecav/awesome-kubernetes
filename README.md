@@ -62,8 +62,8 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Sysdig Install: Kubernetes](https://support.sysdig.com/hc/en-us/articles/206770633-Sysdig-Install-Kubernetes-) - Sysdig Monitor is the first and only monitoring, alerting, and troubleshooting solution designed from the ground up to provide unprecedented visibility into containerized infrastructures.
 * [How to monitor Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - In this article we are going to show how to monitor Nginx on Kubernetes, describing different use cases, peculiarities of running on this platform, relevant metrics and dashboards.
 * [Fluentd: Open-Source Log Collector](https://github.com/fluent/fluentd) - Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on. 
-* [Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/
-) - In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application.
+* [Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) - In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application.
+* [How much RAM does my Prometheus need for ingestion?](https://www.robustperception.io/how-much-ram-does-my-prometheus-need-for-ingestion/) - It can be a little confusing to figure out Prometheus memory usage. Let’s break part of it down.
 
 ## More Resources
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - You can find more awesome resources for Kubernetes here.
