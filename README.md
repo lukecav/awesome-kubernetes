@@ -49,6 +49,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Kubernetes Elasticsearch Cluster](https://github.com/pires/kubernetes-elasticsearch-cluster) - Elasticsearch (5.5.1) cluster on top of Kubernetes made easy.
 * [Redis Metrics Exporter](https://github.com/oliver006/redis_exporter) - Prometheus exporter for Redis metrics.
 * [Prometheus Exports and Integrations](https://prometheus.io/docs/instrumenting/exporters/) - There are a number of libraries and servers which help in exporting existing metrics from third-party systems as Prometheus metrics.
+* [High Availability Prometheus Alerting and Notification](https://www.robustperception.io/high-availability-prometheus-alerting-and-notification/) - Prometheus is architected for reliability of alerting, how do you set it up?
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
