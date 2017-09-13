@@ -33,6 +33,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Quartermaster](https://github.com/coreos/quartermaster) - Quartermaster is a framework for managing containerized storage systems like Ceph, GlusterFS, NFS-Ganesha, Rook and others on top of Kubernetes. 
 * [Jenkins Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic slaves in a Kubernetes/Docker environment.
 * [Puppet module for Prometheus](https://github.com/voxpupuli/puppet-prometheus) - This module automates the install and configuration of Prometheus monitoring tool.
+* [Psykube](https://github.com/CommercialTribe/psykube) - A faster way to deploy to Kubernetes.
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
