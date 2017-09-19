@@ -52,6 +52,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Prometheus Exports and Integrations](https://prometheus.io/docs/instrumenting/exporters/) - There are a number of libraries and servers which help in exporting existing metrics from third-party systems as Prometheus metrics.
 * [High Availability Prometheus Alerting and Notification](https://www.robustperception.io/high-availability-prometheus-alerting-and-notification/) - Prometheus is architected for reliability of alerting, how do you set it up?
 * [Redis on Kubernetes as StatefulSet](https://github.com/CommercialTribe/kube-redis) - The following document describes the deployment of a self-bootstrapping, reliable, multi-node Redis on Kubernetes.
+* [Analytics InfluxDB](https://github.com/janajri/analytics-influxdb) - Simple analytics logging for InfluxDB, heavily inspired by analytics-node.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
