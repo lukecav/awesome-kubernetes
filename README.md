@@ -34,6 +34,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Jenkins Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic slaves in a Kubernetes/Docker environment.
 * [Puppet module for Prometheus](https://github.com/voxpupuli/puppet-prometheus) - This module automates the install and configuration of Prometheus monitoring tool.
 * [Psykube](https://github.com/CommercialTribe/psykube) - A faster way to deploy to Kubernetes.
+* [KubeVirt](https://github.com/kubevirt/kubevirt) - KubeVirt is a virtual machine management add-on for Kubernetes. The aim is to provide a common ground for virtualization solutions on top of Kubernetes.
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
