@@ -55,6 +55,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [High Availability Prometheus Alerting and Notification](https://www.robustperception.io/high-availability-prometheus-alerting-and-notification/) - Prometheus is architected for reliability of alerting, how do you set it up?
 * [Redis on Kubernetes as StatefulSet](https://github.com/CommercialTribe/kube-redis) - The following document describes the deployment of a self-bootstrapping, reliable, multi-node Redis on Kubernetes.
 * [Analytics InfluxDB](https://github.com/janajri/analytics-influxdb) - Simple analytics logging for InfluxDB, heavily inspired by analytics-node.
+* [Swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
