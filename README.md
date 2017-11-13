@@ -1,4 +1,4 @@
-# awesome-kubernetes
+# Awesome Kubernetes
 A collection of tools for [Kubernetes](https://kubernetes.io/).
 
 ## Table Of Contents
