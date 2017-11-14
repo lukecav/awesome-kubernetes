@@ -39,6 +39,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Heptio Ark](https://github.com/heptio/ark) - Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes.
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. 
 * [ExternalDNS](https://github.com/kubernetes-incubator/external-dns) - ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
+* [Fluent Bit Kubernetes Daemonset](https://github.com/fluent/fluent-bit-kubernetes-logging) - Kubernetes Logging with Fluent Bit.
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
