@@ -41,6 +41,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [ExternalDNS](https://github.com/kubernetes-incubator/external-dns) - ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 * [Fluent Bit Kubernetes Daemonset](https://github.com/fluent/fluent-bit-kubernetes-logging) - Kubernetes Logging with Fluent Bit.
 * [Pod Reaper](https://github.com/target/pod-reaper) - A rules based pod killing container. Pod-Reaper was designed to kill pods that meet specific conditions. 
+* [Kubernetes Certificate Manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
