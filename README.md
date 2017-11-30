@@ -63,6 +63,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Analytics InfluxDB](https://github.com/janajri/analytics-influxdb) - Simple analytics logging for InfluxDB, heavily inspired by analytics-node.
 * [Swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager.
 * [Hazelcast Kubernetes](https://github.com/stefanprodan/swarmprom) - Hazelcast clustering for Kubernetes made easy.
+* [MetalLB](https://github.com/google/metallb) - MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using BGP.
 
 ## Tutorials
 * [Kubernetes Nginx Ingress controller](https://crondev.com/kubernetes-nginx-ingress-controller/) - Ingress is the built‑in Kubernetes load‑balancing framework for HTTP traffic. With Ingress, you control the routing of external traffic.
