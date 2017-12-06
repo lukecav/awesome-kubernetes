@@ -43,6 +43,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Pod Reaper](https://github.com/target/pod-reaper) - A rules based pod killing container. Pod-Reaper was designed to kill pods that meet specific conditions. 
 * [Kubernetes Certificate Manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
 * [Ksonnet](https://github.com/ksonnet/ksonnet) - Ksonnet is a framework for writing, sharing, and deploying Kubernetes application manifests. With its CLI, you can generate a complete application from scratch in only a few commands, or manage a complex system at scale.
+* [Jaeger Kubernetes Templates](https://github.com/jaegertracing/jaeger-kubernetes) - Support for deploying Jaeger into Kubernetes
 
 ## Performance
 * [Prometheus on Kubernetes](https://github.com/grobie/prometheus-on-kubernetes) - An example setup of Prometheus inside of Kubernetes, monitoring the Kubernetes infrastructure itself as well as services running in Kubernetes.
