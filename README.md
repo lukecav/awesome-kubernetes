@@ -31,6 +31,7 @@ A collection of tools for [Kubernetes](https://kubernetes.io/).
 * [Reference doc of hyperkube](https://github.com/fdebonneval/docker8s) - Reference doc of hyperkube.
 * [mobydig](https://github.com/fdebonneval/mobydig) - Image to run Sysdig on Docker for mac (but not only, it should work on a docker engine on a linux host) #Why ? Why a particular image for Docker for mac ? Sysdig provides a Docker image to run sysdig/csysdig on Docker but on a Linux host.
 * [Quartermaster](https://github.com/coreos/quartermaster) - Quartermaster is a framework for managing containerized storage systems like Ceph, GlusterFS, NFS-Ganesha, Rook and others on top of Kubernetes. 
+* [Jenkins X](http://jenkins-x.io/) - CI/CD for Kubernetes using Jenkins   
 * [Jenkins Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic slaves in a Kubernetes/Docker environment.
 * [Puppet module for Prometheus](https://github.com/voxpupuli/puppet-prometheus) - This module automates the install and configuration of Prometheus monitoring tool.
 * [Psykube](https://github.com/CommercialTribe/psykube) - A faster way to deploy to Kubernetes.
